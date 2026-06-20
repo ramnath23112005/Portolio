@@ -1,0 +1,81 @@
+Project Goal
+
+Build a personal brand website that looks like a SaaS product.
+
+Master Prompt
+
+Build a modern developer portfolio using Next.js 15, TypeScript, Tailwind CSS, Framer Motion and MDX.
+
+Features:
+
+Landing page
+Animated hero section
+Dynamic project showcase
+GitHub integration
+Blog system
+Dark/light mode
+Contact form
+Resume download
+Skills visualization
+Coding statistics
+LeetCode integration
+GitHub contribution graph
+Testimonials
+SEO optimization
+Open Graph support
+Analytics dashboard
+Performance score above 95
+
+Design style:
+
+Apple inspired
+Vercel inspired
+Minimalist
+Glassmorphism
+Smooth animations
+
+Technical requirements:
+
+Server Components
+Dynamic metadata
+Image optimization
+Accessibility
+Responsive design
+Static generation
+
+Generate:
+
+Complete design system
+Component architecture
+Folder structure
+Deployment guide
+SEO checklist
+Resume Impact
+
+Looks like:
+
+Engineered high-performance portfolio platform with dynamic content, analytics and SEO optimization.
+
+Bonus Project (This Gets Startup Interviews)
+AI Interview Preparation Platform
+
+This is the kind of project that gets attention in 2026.
+
+Build an AI-powered interview preparation platform using Next.js, Node.js, PostgreSQL, OpenAI API, Clerk Authentication and Stripe.
+
+Features:
+
+AI interviewer
+Mock coding interviews
+Behavioral interviews
+Resume analysis
+ATS scoring
+Speech analysis
+Video recording
+AI feedback
+Progress tracking
+Personalized question generation
+Leaderboard
+Subscription system
+
+Generate enterprise-level architecture and production-ready code.
